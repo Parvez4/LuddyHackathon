@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> aed5dab09cff606e334521136922334362cf7ea7
 # Luddy_Hackathon
 CDCC_IndianaToxicWatch
 Story: https://public.tableau.com/shared/RC478TN4T?:display_count=n&:origin=viz_share_link
